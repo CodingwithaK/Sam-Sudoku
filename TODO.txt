@@ -1,0 +1,17 @@
+-generate Unique boards
+-onTouch highlight box
+-create numpads
+-add memo button
+-when memo active onTouch fill corner of blank highlighted box
+-when memo unactivated onTouch fill highlighted box and get rid of memos
+
+-add undo button
+-add redo button
+-add check button
+-onTouch count errors and send back how many
+-add pinch to zoom
+-add timer
+-save all times and date
+-display top 5 fastest,slowest, and your average time
+-save board on pause
+73$
